@@ -1,0 +1,10 @@
+# Ignore virtual environment folder
+myenv/
+
+# Ignore model files
+models/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
